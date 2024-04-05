@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @PatCHastings
-- 👀 I’m interested in gaming, discovering value, how things work, and new ways to create aesthetically epic art via whichever medium necessary. 
-- 🌱 I recently graduated WeCanCodeIT bootcamp, and it was such a great decision. I am passionate about applying these skills to help others.
-- 💞️ I’m looking to collaborate on creating projects to build a solid portfolio, fuel great ideas, and perhaps create valuable applications. 
+- 🕹️ Retro RPG enthusiast — SquareSoft worlds were my childhood playgrounds, suitably replaced with FromSoftware's hellscapes.
+- 🌱 1.5 years exp as a Software Engineer at JPMC. Forever a student in the vast world of technology, currently diving deeper into blockchain and expanding my full-stack development prowess.
+  
+What I'm Up To:
+
+- 🔭 Crafting applications with Java, C#, Python, and JavaScript. Exploring the frontiers with React, AWS, and anything in-demand.  
+- 🌐 Passionately exploring the innovative use cases of cryptocurrency and eager to contribute to this revolutionary field.
+- 🕹️ Watching all the Star Wars shows on Disney+ with my daughter, almost finished!
 - 📫 You can reach me at phastings82@gmail.com
 
 <!---
