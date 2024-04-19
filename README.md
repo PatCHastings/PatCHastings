@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatCHastings
+- 🌱 1.5 years exp as a Software Engineer at JPMC. Forever a student in the vast world of technology, currently diving deeper into AI, ML, blockchain, and expanding my full-stack development prowess.
 - 🕹️ Retro RPG enthusiast — SquareSoft worlds were my childhood playgrounds, suitably replaced with FromSoftware's hellscapes.
-- 🌱 1.5 years exp as a Software Engineer at JPMC. Forever a student in the vast world of technology, currently diving deeper into blockchain and expanding my full-stack development prowess.
   
 What I'm Up To:
 
