@@ -6,7 +6,7 @@ What I'm Up To:
 
 - 🔭 Crafting applications with Java, C#, Python, and JavaScript. Exploring the frontiers with React, AWS, and anything in-demand.  
 - 🌐 Passionately exploring the innovative use cases of cryptocurrency and eager to contribute to this revolutionary field.
-- 🕹️ Watching all the Star Wars shows on Disney+ with my daughter, almost finished!
+
 - 📫 You can reach me at phastings82@gmail.com
 
 <!---
